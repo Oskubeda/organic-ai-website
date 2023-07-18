@@ -195,3 +195,51 @@
     height: 100px;
     width: 100px;
 }
+
+#music{
+    height: 65px;
+    width: 290px;
+    top: 565px;
+    left: 1135px;
+    position: relative;
+}
+
+#musicImg{
+    display:block;
+    height:100px;
+    background:url(/organic-ai-website/resources/images/transperancy.png) -0 0 no-repeat;
+    border-color: #f77062;
+    position: relative;
+}
+
+#merch{
+    height: 65px;
+    width: 290px;
+    top: 620px;
+    left: 1135px;
+    position: relative;
+}
+
+#merchImg{
+    display:block;
+    height:100px;
+    background:url(/organic-ai-website/resources/images/transperancy.png) -0 0 no-repeat;
+    border-color: #f77062;
+    position: relative;
+}
+
+#shows{
+    height: 65px;
+    width: 290px;
+    top: 665px;
+    left: 1135px;
+    position: relative;
+}
+
+#showsImg{
+    display:block;
+    height:100px;
+    background:url(/organic-ai-website/resources/images/transperancy.png) -0 0 no-repeat;
+    border-color: #f77062;
+    position: relative;
+}
